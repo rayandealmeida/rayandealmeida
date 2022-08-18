@@ -2,7 +2,6 @@
 
 - ⚡ I'm a student of Information Systems
 - 👯 I seek to collaborate in the development of web systems or another segment focused on the systems area
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/rayan-almeida Instagram: @raaynit
 
 <div align="center">
   <a href="https://github.com/rayandealmeida">
