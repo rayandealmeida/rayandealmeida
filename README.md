@@ -3,11 +3,6 @@
 - ⚡ I'm a student of I.T
 - 👯 I seek to collaborate in the development of web systems or another segment focused on the systems area
 
-<div align="center">
-  <a href="https://github.com/rayandealmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayandealmeida&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayandealmeida&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
